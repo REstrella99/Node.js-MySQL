@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/daquilino/MySQL-Node-Store.git"
+    "url": "git+https://github.com/REstrella99/Node.js-MySQL.git"
   },
-  "author": "Douglas Aquilino",
+  "author": "Rafael Estrella",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/daquilino/MySQL-Node-Store/issues"
+    "url": "https://github.com/REstrella99/Node.js-MySQL/issues"
   },
-  "homepage": "https://github.com/daquilino/MySQL-Node-Store#readme",
+  "homepage": "https://github.com/REstrella99/Node.js-MySQL#readme",
   "dependencies": {
     "cli-table": "^0.3.1",
     "inquirer": "^3.0.6",
